@@ -13,15 +13,7 @@
     <a href="https://linkedin.com/in/madhur--garg" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="madhur--garg" height="30" width="40" /></a>
-    <a href="https://instagram.com/__m.a.d.h.u.r__" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="__m.a.d.h.u.r__" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/madhur108" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhur108" height="30"
-            width="40" /></a>
-    <a href="https://codeforces.com/profile/madhur108" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="madhur108" height="30"
-            width="40" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +40,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/madhurgarg"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="170"
             alt="madhurgarg" /></a></p>
 
 <br><br><br><br>
