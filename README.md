@@ -38,11 +38,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/madhurgarg"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="170"
-            alt="madhurgarg" /></a></p>
-
 <br><br><br><br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=garg-madhur-garg&show_icons=true&locale=en&layout=compact"
